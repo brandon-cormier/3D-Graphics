@@ -1,0 +1,14 @@
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/CMakeFiles/rebuild_cache.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/CMakeFiles/edit_cache.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/CMakeFiles/intersections.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/CMakeFiles/distances.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/CMakeFiles/rays.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/CMakeFiles/core.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glad/CMakeFiles/rebuild_cache.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glad/CMakeFiles/glad.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glad/CMakeFiles/edit_cache.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glfw/CMakeFiles/rebuild_cache.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glfw/CMakeFiles/edit_cache.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glfw/src/CMakeFiles/rebuild_cache.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glfw/src/CMakeFiles/glfw.dir
+/home/brandon/Documents/CSC418/a4/computer-graphics-bounding-volume-hierarchy/build/glfw/src/CMakeFiles/edit_cache.dir
